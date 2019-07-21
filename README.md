@@ -25,7 +25,7 @@ The `price` and `odometer` columns contained numeric data stored as strings. One
 
 From the rows that remained in the dataset, we selected the 9 most popular car brands, and determined the mean price and mean mileage for each brand:
 
-![popular car brand info](https://i.gyazo.com/f3db3a337911a3b79ccf6e2ea96c9592.png)
+![popular car brand info](https://i.gyazo.com/baf91a6ddba47b74814d76a0e4e03d8e.png)
 
 ## Conclusions
 The first thing that stuck out to us about brand popularity was that cars made by European Automobile makers were most popular, representing at least 60% of the total car listings.
