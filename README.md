@@ -24,6 +24,7 @@ The `price` and `odometer` columns contained numeric data stored as strings. One
 - Since an overwhelming majority of our data points fell within the 1900-2016 registration year range, by dropping the rows that don't belong to that range, we lost less than 4% of our data points. As such, we decided to drop them.
 
 From the rows that remained in the dataset, we selected the 9 most popular car brands, and determined the mean price and mean mileage for each brand:
+
 ![popular car brand info](https://i.gyazo.com/f3db3a337911a3b79ccf6e2ea96c9592.png)
 
 ## Conclusions
